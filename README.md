@@ -2,7 +2,7 @@
 
 ## This repository is associated with the following paper:
 
-I. Rose, M. Bidarimath, A. Webster, A. K. Godwin, A. Flesken-Nikitin, and A. Y. Nikitin,
-“Wnt and inflammatory signaling distinguish human fallopian tube epithelial cell
-populations,” bioRxiv, 2020. [Online]. Available:
-https://www.biorxiv.org/content/early/2020/01/16/2020.01.15.908293
+Rose, I. M., Bidarimath, M., Webster, A., Godwin, A. K., Flesken-Nikitin, A., and
+Nikitin, A. Y. (2020). WNT and inflammatory signaling distinguish human
+fallopian tube epithelial cell populations. Scientific Reports, 10(1).
+Published online 2020 Jun 17. doi: 10.1038/s41598-020-66556-y
